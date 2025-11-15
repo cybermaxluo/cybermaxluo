@@ -79,7 +79,7 @@ Email: 186616@gmail.com
 Linkedin: https://www.linkedin.com/in/max-luo
 
 <center class="half">
-    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/maxluo.png" width="300"/>
+    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/maxluo-gzh.png" width="300"/>
 </center>
 
 ## 0x05 Github Stats
