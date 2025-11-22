@@ -73,8 +73,8 @@ Most of my long-form essays and books are currently in Chinese.
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/98801514" width="168"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72035409" width="168"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69773039" width="168"/>
-    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/HTB-CYCLONE.png" width="300"/>
-    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/HTB-HAILSTORM.png" width="300"/>
+    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/HTB-CYCLONE.png" width="168"/>
+    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/HTB-HAILSTORM.png" width="168"/>
 </div>
 
 ## 0x04 Contact me
