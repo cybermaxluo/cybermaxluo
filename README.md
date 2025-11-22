@@ -60,7 +60,8 @@ Most of my long-form essays and books are currently in Chinese.
 11. [《08 宇宙的十二种假说：多重宇宙》](https://mp.weixin.qq.com/s/BeC73RbAAXv3XgLzOsSNwg)
 12. [《09 宇宙的十二种假说：全息宇宙》](https://mp.weixin.qq.com/s/eU0M8hbP40e8OTmP7sBWLA)
 13. [《10 宇宙的十二种假说：时间的三种面貌》](https://mp.weixin.qq.com/s/BwhGfrgtTCnp6oE_F2wSew)
-14. [《12 宇宙的十二种假说：终极篇》](https://mp.weixin.qq.com/s/0SAVN9-A2_XFkUDmRfjj3w)
+14. [《11 宇宙的十二种假说：人择原理》](https://mp.weixin.qq.com/s/dAU8aN9Wh8k5C_-hdKD7GA)
+15. [《12 宇宙的十二种假说：终极篇》](https://mp.weixin.qq.com/s/0SAVN9-A2_XFkUDmRfjj3w)
 
  
 
