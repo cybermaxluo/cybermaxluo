@@ -73,8 +73,8 @@ Most of my long-form essays and books are currently in Chinese.
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/98801514" width="168"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72035409" width="168"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69773039" width="168"/>
-    <img src="https://media.licdn.com/dms/image/v2/D562DAQHVl7pOkRyBjA/profile-treasury-document-cover-images_800/profile-treasury-document-cover-images_800/0/1711639469150?e=1763611200&v=beta&t=yqoiuyPp-2KK5fzV5tlMf43ZxxW-zMD51Y-XwBojH14" width="168"/>
-    <img src="https://media.licdn.com/dms/image/v2/D562DAQGo9A8Tv3y9MQ/profile-treasury-document-cover-images_800/profile-treasury-document-cover-images_800/0/1731939270883?e=1763611200&v=beta&t=h83MgdqJwrwQ5ED5kyEM30y9KRghXdnApUHK2N1WTbI" width="168"/>
+    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/HTB-CYCLONE.png" width="300"/>
+    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/HTB-HAILSTORM.png" width="300"/>
 </div>
 
 ## 0x04 Contact me
