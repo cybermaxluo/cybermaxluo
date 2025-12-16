@@ -27,7 +27,7 @@ Most of my long-form essays and books are currently in Chinese.
 
 [《AI-Driven Enterprise Security: Architecture, Methodology, and Practice》](https://github.com/cybermaxluo/AI-ESA)
 
-> AI驱动的企业安全：架构、方法论与实践，一本系统化的企业安全指南，覆盖架构设计、方法论框架、实践落地。系统化提出 AiSecOps 方法论框架，将 AI 能力深度融入企业安全体系。
+> AI驱动的企业安全：架构、方法论与实践，一本系统化的企业安全指南，覆盖架构设计、方法论框架、实践落地。系统化提出 AISecOps 方法论框架，将 AI 能力深度融入企业安全体系。
 
 #### 📄 Technical Papers & Guides
 
@@ -42,6 +42,8 @@ Most of my long-form essays and books are currently in Chinese.
 8. [《金融领域跨境合规的六大 “生死线”》](https://mp.weixin.qq.com/s/eAIWOEmGZbx5RU41fdrLew)
 9. [《BlackHat Asia 2025：Java 反序列化利用链深度挖掘》](https://mp.weixin.qq.com/s/kO_nVUeqMM2UaaARual8RA)
 10. [《聊一聊AI赋能网络安全》](https://mp.weixin.qq.com/s/Cgxeue9XSi1LVrtS-9TNIA)
+11.  [《Black Hat 2025 USA：基于 LLM 的微服务污点漏洞检测》](https://mp.weixin.qq.com/s/8-cs8FOIFW5T3YaZypGIoA))
+
 
 #### ☯️ Personal Essays & Reflections
 
