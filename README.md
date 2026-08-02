@@ -25,9 +25,9 @@ Most of my long-form essays and books are currently in Chinese.
 
 #### 📚 Open-source Book
 
-[《AI-Driven Enterprise Security: Architecture, Methodology, and Practice》](https://github.com/cybermaxluo/AI-ESA)
+[《AISecOps: AI-Driven Enterprise Security》]([https://github.com/cybermaxluo/AI-ESA](https://github.com/cybermaxluo/AISecOps))
 
-> AI驱动的企业安全：架构、方法论与实践，一本系统化的企业安全指南，覆盖架构设计、方法论框架、实践落地。系统化提出 AISecOps 方法论框架，将 AI 能力深度融入企业安全体系。
+> AISecOps: AI-Driven Enterprise Security｜AI 驱动的安全体系。一套将 AI 能力嵌入企业安全体系的方法论框架，以及支撑它落地的完整工程实践——从安全架构、GRC、云原生、数据隐私到 SOC 运营、身份治理与 AI 系统安全。
 
 #### 📄 Technical Papers & Guides
 
