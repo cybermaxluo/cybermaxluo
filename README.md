@@ -95,11 +95,10 @@ More writing is available on my GitHub and WeChat public account: **白帽子罗
   <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/maxluo-gzh.png" width="300"/>
 </p>
 
-## 0x06 GitHub Stats
+## 0x06 GitHub
 
-| GitHub Stats | Top Languages |
-| --- | --- |
-| ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybermaxluo&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybermaxluo&hide=javascript,html,css) |
+- Profile: https://github.com/cybermaxluo
+- Open-source book: https://github.com/cybermaxluo/AISecOps/
 
 ---
 
