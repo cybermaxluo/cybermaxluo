@@ -1,38 +1,47 @@
-# Hi, I'm Max 👋
+# Hi, I'm Max
 
-AI-driven enterprise security | AppSec, SDLC, DevSecOps, AI for Security & Security for AI
+AI Security Engineering Lead (Crypto/Web3) | Author of AISecOps | AI for Security & Security for AI | Blockchain Security | OSCE³
 
 ## 0x01 About Me
 
-**TL;DR:** Cybersecurity executive with a strong technical background, focused on building engineering-driven, AI-enabled, scalable enterprise security systems.
+**TL;DR:** Cybersecurity leader and hands-on security engineer focused on building AI-driven security capabilities for high-pressure, high-adversarial environments.
 
 **Highlights**
 
-- Lead AI Security COE, 10+ years in enterprise security architecture
-- Built global-scale AI-driven Security & AppSec & DevSecOps programs for cross-border e-commerce
-- Author of open-source book **"AI-Driven Enterprise Security"**
-- Hands-on in AI for Security, AppSec, DevSecOps
+- 13+ years in cybersecurity, from red teaming and exploit development to global security leadership.
+- Leading Security AI Automation at a globally leading cryptocurrency exchange.
+- Focused on AI SOC, AI threat hunting, insider threat defense, data loss prevention, AppSec, DevSecOps, and offensive security.
+- Former Head of Global AI Security COE and Head of Global Application Security at SHEIN.
+- Author of the open-source book and project **《AISecOps: AI-Driven Security System》**.
+- OffSec OSCE³ / OSED / OSWE / OSEP / OSCP holder.
 
-#### Tech Focus
+I work at the intersection of security engineering, AI automation, and security operations, turning security expertise into reusable platforms, measurable controls, and repeatable operating models.
 
-- AppSec & SDLC: SAST/DAST, threat modeling, SBOM, DevSecOps pipeline design
-- AI Security: AI-driven security, LLM threat modeling, prompt injection defense, model governance, NIST AI RMF
-- Offensive Security: Red teaming, Pentest
+**Current focus**
 
-## 0x02 Projects & Writing
+- **Crypto exchange security:** SOC anti-intrusion, Web3 APT defense, phishing, account takeover, API key abuse, cloud-native intrusion, abnormal login, and abnormal withdrawal detection.
+- **AI security operations:** AI SOC, SOAR, AI alert triage, AI threat hunting, incident investigation automation, IOC expansion, attack timeline generation, and response recommendation.
+- **Insider threat & data protection:** AI UEBA, behavior baselines, privilege abuse detection, sensitive-operation governance, customer-support risk monitoring, and data loss prevention.
+
+**Core background**
+
+- **AppSec & SDLC:** SAST / DAST / IAST / SCA, threat modeling, secure code review, SBOM, DevSecOps, API security, mobile security, and software supply chain security.
+- **AI system security:** LLM threat modeling, prompt injection defense, data leakage prevention, access control, model governance, third-party model risk, and NIST AI RMF.
+- **Offensive security:** red teaming, penetration testing, cloud and container attack simulation, exploit development, and adversary emulation.
+
+## 0x02 AISecOps
+
+[《AISecOps: AI-Driven Security System》](https://github.com/cybermaxluo/AISecOps/)
+
+> AISecOps: AI 驱动的安全体系。一套将 AI 能力嵌入企业安全体系的方法论框架，以及支撑它落地的工程实践，覆盖安全架构、SOC 运营、AI 威胁狩猎、内部威胁检测、数据防泄漏、GRC、云原生安全、身份治理、隐私保护与 AI 系统安全。
+
+## 0x03 Selected Writing
 
 Most of my long-form essays and books are currently in Chinese.
 
-#### 📚 Open-source Book
+#### Technical Papers & Guides
 
-[《AISecOps: AI-Driven Enterprise Security》]([https://github.com/cybermaxluo/AI-ESA](https://github.com/cybermaxluo/AISecOps))
-
-> AISecOps: AI-Driven Enterprise Security｜AI 驱动的安全体系。一套将 AI 能力嵌入企业安全体系的方法论框架，以及支撑它落地的完整工程实践——从安全架构、GRC、云原生、数据隐私到 SOC 运营、身份治理与 AI 系统安全。
-
-#### 📄 Technical Papers & Guides
-
-1. [《A Comprehensive Guide to Enhancing Workplace Influence: From Theory to Practice
-   》](https://www.linkedin.com/pulse/comprehensive-guide-enhancing-workplace-influence-from-qichen-luo-zy7vc/?trackingId=IK487VFO8IIrjTrAHwXhwQ%3D%3D)
+1. [《A Comprehensive Guide to Enhancing Workplace Influence: From Theory to Practice》](https://www.linkedin.com/pulse/comprehensive-guide-enhancing-workplace-influence-from-qichen-luo-zy7vc/?trackingId=IK487VFO8IIrjTrAHwXhwQ%3D%3D)
 2. [《互联网跨境企业应用安全架构指南》](https://www.freebuf.com/articles/es/449639.html)
 3. [《安全BP（GSBP）与 BISO 团队建设实践指南》](https://mp.weixin.qq.com/s/RFTAAVc0mPMcKXkv8dyZVQ)
 4. [《互联网企业红队建设实践指南》](https://mp.weixin.qq.com/s?__biz=Mzk5MDgzMDExMg==&mid=2247484531&idx=1&sn=df557ee5e1de78b3fc30a686bffefc07&chksm=c4f4db1a98eb5748128c01ea5a7fa6d278c5ed0e8edafefee7f5c6531018d25291e8188d90c1&scene=0&xtrack=1&subscene=90#rd)
@@ -42,15 +51,12 @@ Most of my long-form essays and books are currently in Chinese.
 8. [《金融领域跨境合规的六大 “生死线”》](https://mp.weixin.qq.com/s/eAIWOEmGZbx5RU41fdrLew)
 9. [《BlackHat Asia 2025：Java 反序列化利用链深度挖掘》](https://mp.weixin.qq.com/s/kO_nVUeqMM2UaaARual8RA)
 10. [《聊一聊AI赋能网络安全》](https://mp.weixin.qq.com/s/Cgxeue9XSi1LVrtS-9TNIA)
-11.  [《Black Hat 2025 USA：基于 LLM 的微服务污点漏洞检测》](https://mp.weixin.qq.com/s/8-cs8FOIFW5T3YaZypGIoA)
+11. [《Black Hat 2025 USA：基于 LLM 的微服务污点漏洞检测》](https://mp.weixin.qq.com/s/8-cs8FOIFW5T3YaZypGIoA)
 
+#### Personal Essays & Reflections
 
-#### ☯️ Personal Essays & Reflections
-
-1. [《Max的禅修笔记：道教体系框架解读
-   》](https://mp.weixin.qq.com/s/FsOPV0BJ2KXlnMSSL0Udng)
-2. [《Max的禅修笔记：中国民间信仰体系框架解读
-   》](https://mp.weixin.qq.com/s/-s8LlZPDZrDyQaG_k8I8Kg)
+1. [《Max的禅修笔记：道教体系框架解读》](https://mp.weixin.qq.com/s/FsOPV0BJ2KXlnMSSL0Udng)
+2. [《Max的禅修笔记：中国民间信仰体系框架解读》](https://mp.weixin.qq.com/s/-s8LlZPDZrDyQaG_k8I8Kg)
 3. [《Max的禅修笔记：佛教体系框架解读》](https://mp.weixin.qq.com/s/HGhFq7t4J6tZ8O9LMOi9_w)
 4. [《01 《宇宙的十二种假说》开篇》](https://mp.weixin.qq.com/s/hlarOBJz61Wvyh-VEERHow)
 5. [《02 宇宙的十二种假说：物质为本，还是意识为本？》](https://mp.weixin.qq.com/s/zNrV94b_JWR0HMR8n_b7Vw)
@@ -65,9 +71,9 @@ Most of my long-form essays and books are currently in Chinese.
 14. [《11 宇宙的十二种假说：人择原理》](https://mp.weixin.qq.com/s/dAU8aN9Wh8k5C_-hdKD7GA)
 15. [《12 宇宙的十二种假说：终极篇》](https://mp.weixin.qq.com/s/0SAVN9-A2_XFkUDmRfjj3w)
 
- 
+More writing is available on my GitHub and WeChat public account: **白帽子罗棋琛**.
 
-## 0x03 Certifications
+## 0x04 Certifications
 
 <div>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/126806140" width="168"/>
@@ -79,21 +85,22 @@ Most of my long-form essays and books are currently in Chinese.
     <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/HTB-HAILSTORM.png" width="168"/>
 </div>
 
-## 0x04 Contact me
+## 0x05 Contact
 
-Email: 186616@gmail.com
+- Email: 186616@gmail.com
+- LinkedIn: https://www.linkedin.com/in/max-luo
+- GitHub: https://github.com/cybermaxluo
 
-Linkedin: https://www.linkedin.com/in/max-luo
+<p align="center">
+  <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/maxluo-gzh.png" width="300"/>
+</p>
 
-<center class="half">
-    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/maxluo-gzh.png" width="300"/>
-</center>
+## 0x06 GitHub Stats
 
-## 0x05 Github Stats
-
-| ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybermaxluo) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybermaxluo&hide=javascript,html,css) |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| GitHub Stats | Top Languages |
+| --- | --- |
+| ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybermaxluo&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybermaxluo&hide=javascript,html,css) |
 
 ---
 
-_AI-driven enterprise security | AppSec, DevSecOps, AI Security_
+_AI-driven security operations | Crypto exchange security | AppSec | DevSecOps | AI Security_
