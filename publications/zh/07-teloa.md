@@ -344,7 +344,6 @@ AI-Native Team Studio
 
 **模型可以替换，Harness 可以演进，部署可以迁移，算力可以选择，但你的 AI 团队始终属于你。**
 
-<!-- 联系方式 开始 -->
 
 ---
 
@@ -352,17 +351,6 @@ AI-Native Team Studio
 
 邮箱：[hi@teloa.ai](mailto:hi@teloa.ai)
 
-Max 微信：**neteyes**
-
-### TELOA 产品交流群
-
-扫码加入，交流产品体验、使用问题与建议。
-
-![TELOA 产品交流群二维码](../assets/6e0638a464415f27.jpg)
-
-*二维码失效后，可添加 Max 微信 neteyes 入群。*
-
-<!-- 联系方式 结束 -->
 
 
 ---

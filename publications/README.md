@@ -16,4 +16,4 @@ Essays by Max Luo on AI Native Security, AI Agent engineering, enterprise securi
 | 06 | [AI Native Security：安全体系最后会长成什么样](zh/06-ai-native-security.md) | [AI Native Security: What Will the Security Framework Ultimately Look Like?](en/06-ai-native-security.md) |
 | 07 | [从 Agent 到 AI Organization：我们为什么做 Teloa](zh/07-teloa.md) | [From Agent to AI Organization: Why We Built Teloa](en/07-teloa.md) |
 
-Chinese originals and full English translations are provided. Figures in articles 3-7 retain Chinese labels. Translations preserve the author's arguments and references; views and forward-looking statements remain those of the source essays.
+Chinese originals and full English translations are provided. All English articles include English-language figures. Translations preserve the author's arguments and references; views and forward-looking statements remain those of the source essays.

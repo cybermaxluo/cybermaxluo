@@ -76,19 +76,17 @@ Most of my long-form writing is in Chinese.
 
 </details>
 
-## Certifications & Contact
+## Certifications
 
-**OSCE³ · OSED · OSWE · OSEP · OSCP**
+| OSCE³ | OSED | OSWE | OSEP | OSCP |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/126806140" alt="OffSec OSCE³ certificate" width="128" /> | <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/126806117" alt="OffSec OSED certificate" width="128" /> | <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/98801514" alt="OffSec OSWE certificate" width="128" /> | <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72035409" alt="OffSec OSEP certificate" width="128" /> | <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69773039" alt="OffSec OSCP certificate" width="128" /> |
 
-<div>
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/126806140" alt="OffSec certification" width="168" />
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/126806117" alt="OffSec certification" width="168" />
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/98801514" alt="OffSec certification" width="168" />
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72035409" alt="OffSec certification" width="168" />
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69773039" alt="OffSec certification" width="168" />
-  <img src="HTB-CYCLONE.png" alt="Hack The Box CYCLONE certification" width="168" />
-  <img src="HTB-HAILSTORM.png" alt="Hack The Box HAILSTORM certification" width="168" />
-</div>
+| HTB CYCLONE | HTB HAILSTORM |
+| :---: | :---: |
+| <img src="HTB-CYCLONE.png" alt="Hack The Box CYCLONE certificate" width="240" /> | <img src="HTB-HAILSTORM.png" alt="Hack The Box HAILSTORM certificate" width="240" /> |
+
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/max-luo) · [GitHub](https://github.com/cybermaxluo) · [Email](mailto:186616@gmail.com)
 

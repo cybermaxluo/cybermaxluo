@@ -72,28 +72,50 @@
     "1e0a5663acd253da.png": "配图/02_应用安全自白/02_appsec-fig3-work-model.png",
     "f55c276999a2a302.png": "配图/02_应用安全自白/02_appsec-fig2-six-stages.png",
     "1f10b03cfcc10d3d.png": "配图/02_应用安全自白/02_appsec-fig4-three-roles.png",
-    "7f3ff2c52aac974b.png": "配图/03_安全组织/03_组织0-系列传导链与本篇位置.png",
+    "ea893204dc3a3403.png": "english-figures/03-security-organization/7f3ff2c52aac974b.zh.png",
     "c86f6c0d11e44bdc.png": "配图/03_安全组织/03_组织1-从按域分工到按责任组织.png",
     "b81049514309677e.png": "配图/03_安全组织/03_组织2-安全工作的五种去向.png",
-    "47d097f6882274cf.png": "配图/03_安全组织/03_组织3-三类角色制衡关系.png",
-    "3fd3619f5675649d.png": "配图/04_安全工具/04_产业0-系列传导链与本篇位置.png",
+    "f9f7cbc12dcb1bd4.png": "english-figures/03-security-organization/47d097f6882274cf.zh.png",
+    "b17fb9fd500be57a.png": "english-figures/03-security-organization/7f3ff2c52aac974b.en.png",
+    "515379d9609fdb6e.png": "english-figures/03-security-organization/c86f6c0d11e44bdc.en.png",
+    "95b90830e78fa42b.png": "english-figures/03-security-organization/b81049514309677e.en.png",
+    "aea03d4f2383810f.png": "english-figures/03-security-organization/47d097f6882274cf.en.png",
+    "9d7bbb5504ba6f0c.png": "english-figures/04-security-industry/3fd3619f5675649d.zh.png",
     "dcd5ac5d939b07bc.png": "配图/04_安全工具/04_工具1-从控制台中心到能力中心.png",
     "09529599c12add53.png": "配图/04_安全工具/04_工具2-安全产品的八层.png",
     "0d5f309348468148.png": "配图/05_甲方安全/05_甲方2-四类不可委托责任.png",
     "24a4ce4ade32f1bc.png": "配图/06_安全厂商/06_厂商2-四类乙方的价值迁移.png",
     "d497c304f273fb39.png": "配图/04_安全工具/04_产业3-四段演进-从使用权到价值.png",
-    "7f545c3544550174.png": "配图/05_对抗/05_对抗0-系列传导链与本篇位置.png",
+    "95c01abf8e1bffc7.png": "english-figures/04-security-industry/3fd3619f5675649d.en.png",
+    "b91f3315285136fc.png": "english-figures/04-security-industry/dcd5ac5d939b07bc.en.png",
+    "b8cca308660634a6.png": "english-figures/04-security-industry/09529599c12add53.en.png",
+    "65e215efcb1199be.png": "english-figures/04-security-industry/0d5f309348468148.en.png",
+    "3087e7bb201cfdf9.png": "english-figures/04-security-industry/24a4ce4ade32f1bc.en.png",
+    "dec2a3027afcb7bf.png": "english-figures/04-security-industry/d497c304f273fb39.en.png",
+    "8a480b3fb73b1871.png": "english-figures/05-red-teaming/7f545c3544550174.zh.png",
     "09affd71a737d84f.png": "配图/05_对抗/05_对抗5-未知的四类.png",
     "10ca38b6850fafbf.png": "配图/05_对抗/05_对抗3-AI红队新职责.png",
     "24951b0239947a2b.png": "配图/05_对抗/05_对抗2-Agent攻击面的八层.png",
     "358d2c4aa360d891.png": "配图/05_对抗/05_对抗6-人从链中间退到两头.png",
     "d99107e9e6acb65d.png": "配图/05_对抗/05_对抗7-按周期与常驻.png",
     "f58416d47b1c2346.png": "配图/05_对抗/05_对抗4-新指标的三组.png",
-    "dc627bc86a19e40c.png": "配图/06_体系/06_体系0-系列传导链与本篇位置.png",
+    "de9c8c4c68d087a7.png": "english-figures/05-red-teaming/7f545c3544550174.en.png",
+    "c26f1b81ad177635.png": "english-figures/05-red-teaming/09affd71a737d84f.en.png",
+    "fdc5a9a9d1c20cb7.png": "english-figures/05-red-teaming/10ca38b6850fafbf.en.png",
+    "1a5792649817064e.png": "english-figures/05-red-teaming/24951b0239947a2b.en.png",
+    "bf294a3c5d8df92c.png": "english-figures/05-red-teaming/358d2c4aa360d891.en.png",
+    "0df52ea1179b6f93.png": "english-figures/05-red-teaming/d99107e9e6acb65d.en.png",
+    "33d003af4986664f.png": "english-figures/05-red-teaming/f58416d47b1c2346.en.png",
+    "67cbd454036efa21.png": "english-figures/06-ai-native-security/dc627bc86a19e40c.zh.png",
     "90f39675b2cdc2e5.png": "配图/06_体系/06_体系1-各个安全域与同一个根因.png",
     "e63325bf2eb75589.png": "配图/06_体系/06_体系2-三段路.png",
     "0cad796f0f0cd95e.png": "配图/15_迁移路线/15_迁移1-迁移最小单元行动链.png",
     "afe9afa6b05e4518.png": "配图/15_迁移路线/15_迁移2-五阶段双向迁移路线.png",
+    "b13a6eeb4c64559b.png": "english-figures/06-ai-native-security/dc627bc86a19e40c.en.png",
+    "0f250c23d804fa6e.png": "english-figures/06-ai-native-security/90f39675b2cdc2e5.en.png",
+    "25acdfd103dfabd1.png": "english-figures/06-ai-native-security/e63325bf2eb75589.en.png",
+    "cc88e1b3e6d6caaa.png": "english-figures/06-ai-native-security/0cad796f0f0cd95e.en.png",
+    "080b1144e1e13cb8.png": "english-figures/06-ai-native-security/afe9afa6b05e4518.en.png",
     "5d31d8f59e2a77f6.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/00-封面-横版.png",
     "3fbf92f5f5f3e0ec.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/01-AI员工的七项要素.png",
     "d2c5a1f95a9bfc24.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/02-从员工到团队到组织.png",
@@ -103,6 +125,252 @@
     "99b15fe30ff5ccd8.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/06-安全场景的交付与边界.png",
     "59e003e5f360318c.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/创始团队-圆形头像.png",
     "e7eea4c8042a55be.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/07-社区版真实工作空间.png",
-    "6e0638a464415f27.jpg": "teloa宣发文稿/2026-10-08-Teloa宣发配图/TELOA产品交流群.JPG"
+    "515fede7e9c6ab61.png": "english-figures/07-teloa/5d31d8f59e2a77f6.en.png",
+    "7f9c5f13a23d381a.png": "english-figures/07-teloa/3fbf92f5f5f3e0ec.en.png",
+    "dc17833865e81149.png": "english-figures/07-teloa/d2c5a1f95a9bfc24.en.png",
+    "842937a2742c81ae.png": "english-figures/07-teloa/7f98496e6b5cef45.en.png",
+    "bf014e8c35e0d1af.png": "english-figures/07-teloa/631cb7d79f2b92cf.en.png",
+    "a1f18239a264f799.png": "english-figures/07-teloa/73e0f9f4dbf1fd58.en.png",
+    "5aac27539a22ad75.png": "english-figures/07-teloa/99b15fe30ff5ccd8.en.png",
+    "7a6d7c2b10e3b11d.png": "english-figures/07-teloa/59e003e5f360318c.en.png",
+    "4dba7987543d3d5e.png": "english-figures/07-teloa/e7eea4c8042a55be.en.png"
+  },
+  "localized_figures": {
+    "03-security-organization": {
+      "7f3ff2c52aac974b.png": {
+        "original": "7f3ff2c52aac974b.png",
+        "html": "7f3ff2c52aac974b.html",
+        "image": "7f3ff2c52aac974b.en.png",
+        "alt": "AI Native Security causal backbone and six-essay reading map, with essay 3 highlighted"
+      },
+      "c86f6c0d11e44bdc.png": {
+        "original": "c86f6c0d11e44bdc.png",
+        "html": "c86f6c0d11e44bdc.html",
+        "image": "c86f6c0d11e44bdc.en.png",
+        "alt": "From dividing work by domain to organizing around responsibility"
+      },
+      "b81049514309677e.png": {
+        "original": "b81049514309677e.png",
+        "html": "b81049514309677e.html",
+        "image": "b81049514309677e.en.png",
+        "alt": "The five destinations of security work"
+      },
+      "47d097f6882274cf.png": {
+        "original": "47d097f6882274cf.png",
+        "html": "47d097f6882274cf.html",
+        "image": "47d097f6882274cf.en.png",
+        "alt": "Checks and balances between the three role types and business decisions"
+      }
+    },
+    "04-security-industry": {
+      "3fd3619f5675649d.png": {
+        "original": "3fd3619f5675649d.png",
+        "html": "3fd3619f5675649d.html",
+        "image": "3fd3619f5675649d.en.png",
+        "alt": "AI Native Security: causal backbone and six-essay reading map, with Essay 04 highlighted"
+      },
+      "dcd5ac5d939b07bc.png": {
+        "original": "dcd5ac5d939b07bc.png",
+        "html": "dcd5ac5d939b07bc.html",
+        "image": "dcd5ac5d939b07bc.en.png",
+        "alt": "From console-centric to capability-centric"
+      },
+      "09529599c12add53.png": {
+        "original": "09529599c12add53.png",
+        "html": "09529599c12add53.html",
+        "image": "09529599c12add53.en.png",
+        "alt": "The eight layers of a security product"
+      },
+      "0d5f309348468148.png": {
+        "original": "0d5f309348468148.png",
+        "html": "0d5f309348468148.html",
+        "image": "0d5f309348468148.en.png",
+        "alt": "Four responsibilities enterprise buyers must retain"
+      },
+      "24a4ce4ade32f1bc.png": {
+        "original": "24a4ce4ade32f1bc.png",
+        "html": "24a4ce4ade32f1bc.html",
+        "image": "24a4ce4ade32f1bc.en.png",
+        "alt": "The shift toward outcomes across four categories of security providers"
+      },
+      "d497c304f273fb39.png": {
+        "original": "d497c304f273fb39.png",
+        "html": "d497c304f273fb39.html",
+        "image": "d497c304f273fb39.en.png",
+        "alt": "Four stages of evolution: from usage rights to value"
+      }
+    },
+    "05-red-teaming": {
+      "7f545c3544550174.png": {
+        "original": "7f545c3544550174.png",
+        "html": "7f545c3544550174.html",
+        "image": "7f545c3544550174.en.png",
+        "alt": "AI Native Security causal backbone from production through talent and metrics, above a six-essay reading map with Essay 5, Red Teaming, highlighted."
+      },
+      "09affd71a737d84f.png": {
+        "original": "09affd71a737d84f.png",
+        "html": "09affd71a737d84f.html",
+        "image": "09affd71a737d84f.en.png",
+        "alt": "Four categories of unknowns: vulnerabilities, paths, unarticulated risks, and shared blind spots, with machine and human responsibilities."
+      },
+      "10ca38b6850fafbf.png": {
+        "original": "10ca38b6850fafbf.png",
+        "html": "10ca38b6850fafbf.html",
+        "image": "10ca38b6850fafbf.en.png",
+        "alt": "Two AI red team responsibilities: attacking enterprise AI systems and using agents to attack existing systems, with distinct authorizations, objectives, and evaluators."
+      },
+      "24951b0239947a2b.png": {
+        "original": "24951b0239947a2b.png",
+        "html": "24951b0239947a2b.html",
+        "image": "24951b0239947a2b.en.png",
+        "alt": "Eight numbered layers of an agent attack surface, from model and reasoning to business outcomes, distinguishing vendor hardening from enterprise-built layers."
+      },
+      "358d2c4aa360d891.png": {
+        "original": "358d2c4aa360d891.png",
+        "html": "358d2c4aa360d891.html",
+        "image": "358d2c4aa360d891.en.png",
+        "alt": "Machines execute red team attack and regression tasks; humans define adversaries, correct course, judge evidence, and assign residual-risk decision authority."
+      },
+      "d99107e9e6acb65d.png": {
+        "original": "d99107e9e6acb65d.png",
+        "html": "d99107e9e6acb65d.html",
+        "image": "d99107e9e6acb65d.en.png",
+        "alt": "Shift from fixed-scope exercises once or twice a year to always-on attack hypotheses, agents, observation, evaluation, and regression testing."
+      },
+      "f58416d47b1c2346.png": {
+        "original": "f58416d47b1c2346.png",
+        "html": "f58416d47b1c2346.html",
+        "image": "f58416d47b1c2346.en.png",
+        "alt": "Three groups of red team metrics: effectiveness, degree of automation, and risk control, including each group's metrics and data sources."
+      }
+    },
+    "06-ai-native-security": {
+      "dc627bc86a19e40c.png": {
+        "original": "dc627bc86a19e40c.png",
+        "html": "dc627bc86a19e40c.html",
+        "image": "dc627bc86a19e40c.en.png",
+        "alt": "The causal backbone above a six-essay reading map, with essay 6, Security System, highlighted. The reading map is not a linear causal sequence."
+      },
+      "90f39675b2cdc2e5.png": {
+        "original": "90f39675b2cdc2e5.png",
+        "html": "90f39675b2cdc2e5.html",
+        "image": "90f39675b2cdc2e5.en.png",
+        "alt": "Ten security domains share the same failure: controls show green while incidents still occur."
+      },
+      "e63325bf2eb75589.png": {
+        "original": "e63325bf2eb75589.png",
+        "html": "e63325bf2eb75589.html",
+        "image": "e63325bf2eb75589.en.png",
+        "alt": "Three additive stages: accumulate judgment, improve the old framework, and replace the foundation, each with its own failure mode."
+      },
+      "0cad796f0f0cd95e.png": {
+        "original": "0cad796f0f0cd95e.png",
+        "html": "0cad796f0f0cd95e.html",
+        "image": "0cad796f0f0cd95e.en.png",
+        "alt": "A six-step action chain from business task to evidence and recovery, with authorization and outcome verification."
+      },
+      "afe9afa6b05e4518.png": {
+        "original": "afe9afa6b05e4518.png",
+        "html": "afe9afa6b05e4518.html",
+        "image": "afe9afa6b05e4518.en.png",
+        "alt": "Five migration phases: autonomy is earned through evidence and can be withdrawn as evidence deteriorates."
+      }
+    },
+    "07-teloa": {
+      "5d31d8f59e2a77f6.png": {
+        "original": "5d31d8f59e2a77f6.png",
+        "html": "5d31d8f59e2a77f6.html",
+        "image": "5d31d8f59e2a77f6.en.png",
+        "alt": "Teloa Community is now open source: From Agent to AI Organization"
+      },
+      "3fbf92f5f5f3e0ec.png": {
+        "original": "3fbf92f5f5f3e0ec.png",
+        "html": "3fbf92f5f5f3e0ec.html",
+        "image": "3fbf92f5f5f3e0ec.en.png",
+        "alt": "How an AI employee works over time: Persistent identity, role, knowledge, skills, tools, memory, and permissions"
+      },
+      "d2c5a1f95a9bfc24.png": {
+        "original": "d2c5a1f95a9bfc24.png",
+        "html": "d2c5a1f95a9bfc24.html",
+        "image": "d2c5a1f95a9bfc24.en.png",
+        "alt": "From AI employees to AI teams, with AI organizations as the long-term direction"
+      },
+      "7f98496e6b5cef45.png": {
+        "original": "7f98496e6b5cef45.png",
+        "html": "7f98496e6b5cef45.html",
+        "image": "7f98496e6b5cef45.en.png",
+        "alt": "Preserve accumulated team assets while models, harnesses, deployments, and compute evolve"
+      },
+      "631cb7d79f2b92cf.png": {
+        "original": "631cb7d79f2b92cf.png",
+        "html": "631cb7d79f2b92cf.html",
+        "image": "631cb7d79f2b92cf.en.png",
+        "alt": "Future architecture concept: Task orchestration across devices, edge nodes, private compute, your own cloud, and frontier models"
+      },
+      "73e0f9f4dbf1fd58.png": {
+        "original": "73e0f9f4dbf1fd58.png",
+        "html": "73e0f9f4dbf1fd58.html",
+        "image": "73e0f9f4dbf1fd58.en.png",
+        "alt": "Teloa's working architecture: Human decisions, AI Team, Agent Studio, and Agent Harness"
+      },
+      "99b15fe30ff5ccd8.png": {
+        "original": "99b15fe30ff5ccd8.png",
+        "html": "99b15fe30ff5ccd8.html",
+        "image": "99b15fe30ff5ccd8.en.png",
+        "alt": "Evidence behind every judgment and boundaries around every action: Investigate, review, approve, and deliver"
+      },
+      "59e003e5f360318c.png": {
+        "original": "59e003e5f360318c.png",
+        "html": "59e003e5f360318c.html",
+        "image": "59e003e5f360318c.en.png",
+        "alt": "Teloa founding team: Max Luo, Founder, AI Security and Engineering; Morgan Chen, Co-founder, AI SOC Platform; Caleb Pan, Co-founder, AI for Security"
+      },
+      "e7eea4c8042a55be.png": {
+        "original": "e7eea4c8042a55be.png",
+        "html": "e7eea4c8042a55be.html",
+        "image": "e7eea4c8042a55be.en.png",
+        "alt": "Teloa Community's real English-language employee workspace, shown with sample data"
+      }
+    }
+  },
+  "updated_chinese_chains": {
+    "03-security-organization": {
+      "7f3ff2c52aac974b.png": {
+        "original": "7f3ff2c52aac974b.png",
+        "image": "7f3ff2c52aac974b.zh.png",
+        "alt": "AI Native Security：传导主线与六篇全景，突出第3篇安全组织",
+        "html": "7f3ff2c52aac974b.zh.html"
+      },
+      "47d097f6882274cf.png": {
+        "original": "47d097f6882274cf.png",
+        "image": "47d097f6882274cf.zh.png",
+        "alt": "三类角色与业务决策的制衡关系，红队结论直接上报业务负责人",
+        "html": "47d097f6882274cf.zh.html"
+      }
+    },
+    "04-security-industry": {
+      "3fd3619f5675649d.png": {
+        "original": "3fd3619f5675649d.png",
+        "image": "3fd3619f5675649d.zh.png",
+        "alt": "AI Native Security：五阶段因果主线与六篇导航，第04篇安全产业高亮",
+        "html": "3fd3619f5675649d.zh.html"
+      }
+    },
+    "05-red-teaming": {
+      "7f545c3544550174.png": {
+        "original": "7f545c3544550174.png",
+        "image": "7f545c3544550174.zh.png",
+        "alt": "AI Native Security 五节点传导主线与六篇导航；第 5 篇红队高亮，篇章卡片之间无因果箭头。",
+        "html": "7f545c3544550174.zh.html"
+      }
+    },
+    "06-ai-native-security": {
+      "dc627bc86a19e40c.png": {
+        "original": "dc627bc86a19e40c.png",
+        "html": "dc627bc86a19e40c.zh.html",
+        "image": "dc627bc86a19e40c.zh.png",
+        "alt": "上半部展示生产方式到人才与指标的因果主线，下半部展示六篇文章导航，第六篇安全体系高亮；篇章导航不是严格的线性因果顺序。"
+      }
+    }
   }
 }

@@ -2,13 +2,11 @@
 
 [中文](../zh/07-teloa.md) | [English](../en/07-teloa.md) | [Article index](../README.md) | [Profile](../../README.md)
 
-> English translation of the Chinese original. Some figures retain their original Chinese labels.
-
 **Teloa Community Is Now Open Source**
 
 <!-- Cover image start -->
 
-![Teloa Community is now open source: From Agent to AI Organization](../assets/5d31d8f59e2a77f6.png)
+![Teloa Community is now open source: From Agent to AI Organization](../assets/515fede7e9c6ab61.png)
 
 <!-- Cover image end -->
 
@@ -82,7 +80,7 @@ An agent that persists over time and has responsibilities, an identity, and perm
 
 <!-- Image 01: The seven elements of an AI employee start -->
 
-![How an AI employee works over time](../assets/3fbf92f5f5f3e0ec.png)
+![How an AI employee works over time: Persistent identity, role, knowledge, skills, tools, memory, and permissions](../assets/7f9c5f13a23d381a.png)
 
 
 <!-- Image 01: The seven elements of an AI employee end -->
@@ -123,7 +121,7 @@ The digital world and the physical world may together become the environment in 
 
 <!-- Image 02: From employees to teams to organizations start -->
 
-![From AI employees to AI teams](../assets/d2c5a1f95a9bfc24.png)
+![From AI employees to AI teams, with AI organizations as the long-term direction](../assets/dc17833865e81149.png)
 
 
 <!-- Image 02: From employees to teams to organizations end -->
@@ -162,7 +160,7 @@ Private deployment is just one way of achieving this. What matters more is owner
 
 <!-- Image 03: Team ownership and choice start -->
 
-![Preserve what you have built. Preserve your choices.](../assets/7f98496e6b5cef45.png)
+![Preserve accumulated team assets while models, harnesses, deployments, and compute evolve](../assets/842937a2742c81ae.png)
 
 
 <!-- Image 03: Team ownership and choice end -->
@@ -193,7 +191,7 @@ This is another dimension of Teloa's understanding of ownership: control over da
 
 <!-- Image 04: Future hybrid compute choices start -->
 
-![Choose the right compute for the task](../assets/631cb7d79f2b92cf.png)
+![Future architecture concept: Task orchestration across devices, edge nodes, private compute, your own cloud, and frontier models](../assets/bf014e8c35e0d1af.png)
 
 
 <!-- Image 04: Future hybrid compute choices end -->
@@ -222,7 +220,7 @@ This means enabling AI teams to operate over the long term and providing a found
 
 <!-- Image 05: Teloa's working architecture start -->
 
-![Teloa's working architecture](../assets/73e0f9f4dbf1fd58.png)
+![Teloa's working architecture: Human decisions, AI Team, Agent Studio, and Agent Harness](../assets/a1f18239a264f799.png)
 
 
 <!-- Image 05: Teloa's working architecture end -->
@@ -255,7 +253,7 @@ If AI employees can work reliably in such an environment, this working model bui
 
 <!-- Image 06: Deliverables and boundaries in security scenarios start -->
 
-![Evidence behind every judgment. Boundaries around every action.](../assets/99b15fe30ff5ccd8.png)
+![Evidence behind every judgment and boundaries around every action: Investigate, review, approve, and deliver](../assets/5aac27539a22ad75.png)
 
 *An illustrative security work scenario.*
 
@@ -281,7 +279,7 @@ Teloa is the product that has gradually emerged from these engineering practices
 
 <!-- Founding team image start -->
 
-![Teloa founding team: Max Luo, Founder (AI Security and Engineering); Morgan Chen, Co-founder (AI SOC Platform); Caleb Pan, Co-founder (AI for Security)](../assets/59e003e5f360318c.png)
+![Teloa founding team: Max Luo, Founder, AI Security and Engineering; Morgan Chen, Co-founder, AI SOC Platform; Caleb Pan, Co-founder, AI for Security](../assets/7a6d7c2b10e3b11d.png)
 
 <!-- Founding team image end -->
 
@@ -305,7 +303,7 @@ Teloa has chosen to keep moving forward along an open, extensible, privately dep
 
 <!-- Image 07: The actual Community workspace start -->
 
-![One workspace. One AI team.](../assets/e7eea4c8042a55be.png)
+![Teloa Community's real English-language employee workspace, shown with sample data](../assets/4dba7987543d3d5e.png)
 
 *The Teloa Community workspace, shown with sample data.*
 
@@ -346,7 +344,6 @@ AI-Native Team Studio
 
 **Models can be replaced, harnesses can evolve, deployments can be migrated, and compute can be chosen. But your AI team always belongs to you.**
 
-<!-- Contact information start -->
 
 ---
 
@@ -354,17 +351,6 @@ AI-Native Team Studio
 
 Email: [hi@teloa.ai](mailto:hi@teloa.ai)
 
-Max's WeChat ID: **neteyes**
-
-### TELOA Product Discussion Group
-
-Scan the QR code to join and discuss product experiences, usage questions, and suggestions.
-
-![TELOA product discussion group QR code](../assets/6e0638a464415f27.jpg)
-
-*If the QR code has expired, add Max on WeChat at neteyes to join the group.*
-
-<!-- Contact information end -->
 
 
 ---

@@ -2,11 +2,9 @@
 
 [中文](../zh/06-ai-native-security.md) | [English](../en/06-ai-native-security.md) | [Article index](../README.md) | [Profile](../../README.md)
 
-> English translation of the Chinese original. Some figures retain their original Chinese labels.
-
 > **About the author**: Max Luo, Founder of Teloa, focused on AI Agent Engineering & Product Development and AI Native Security. AI Security Engineering Team Lead at a globally leading cryptocurrency exchange, with 13+ years in cybersecurity and former leadership roles across global application security, the AI Security Center of Excellence (COE), security BP, and red teaming at SHEIN. Author of the open-source book AISecOps: AI-Driven Enterprise Security.
 >
-> WeChat: neteyes | WeChat Official Account: 白帽子罗棋琛 | GitHub: cybermaxluo
+> WeChat Official Account: 白帽子罗棋琛 | GitHub: cybermaxluo
 
 This is the final article in this series.
 
@@ -20,7 +18,7 @@ These five areas look like five separate issues, but underneath, they are the sa
 
 The central argument of this article is: **The old framework assumes that people do the work. Once agents do the work, that assumption disappears. All the controls are still there, but none of them can prove security. From now on, only one thing can count: what this action actually changed in the end.**
 
-![The series' chain of change and this article's place within it](../assets/dc627bc86a19e40c.png)
+![The causal backbone above a six-essay reading map, with essay 6, Security System, highlighted. The reading map is not a linear causal sequence.](../assets/b13a6eeb4c64559b.png)
 
 ## 1. Five Articles Along a Single Chain
 
@@ -68,7 +66,7 @@ So the current problem is not that one layer has broken. All eight categories st
 
 This explains the new kinds of incidents appearing across domains at the same time. A customer-service agent writes a judgment of "suspected promotion abuse" into long-term memory. Not a single piece of data leaves the enterprise during the entire process, DLP raises no alerts, yet the customer has already suffered real harm. An agent with only project-level permissions and credentials that expire in ten minutes scales several services down to zero in parallel within those ten minutes. From IAM's perspective, it has not exceeded its permissions. A ticketing agent that has never gone down keeps incorrectly closing tickets because of an outdated policy. Every monitoring dashboard is green, while the business steadily incurs losses. Every checklist item passes; the incident happens between the checklist items.
 
-![Different security domains and the same root cause](../assets/90f39675b2cdc2e5.png)
+![Ten security domains share the same failure: controls show green while incidents still occur.](../assets/0f250c23d804fa6e.png)
 
 ## 3. Where to Build the New Framework
 
@@ -144,7 +142,7 @@ The relationship between the three stages is this: stage one provides the conten
 
 Moving this forward requires all three parties. Security architecture and agent engineering build the capabilities and decision points. BISOs obtain the business's answer to "what outcomes are unacceptable." Red teams independently verify whether both actually hold up. The CISO's job is to bring these three parties together and ensure that the third party's independence is not absorbed by the first two. The third article discussed these three categories of roles. Here, they take the field together for the first time.
 
-![Three stages: additive, not replacements](../assets/e63325bf2eb75589.png)
+![Three additive stages: accumulate judgment, improve the old framework, and replace the foundation, each with its own failure mode.](../assets/25acdfd103dfabd1.png)
 
 ## 6. Start with One Action Chain
 
@@ -162,7 +160,7 @@ For enterprises that have not yet deployed agents at scale, my advice is to star
 
 There is a very practical timing difference here. Laying the foundation when there are only a few agents is not remotely the same amount of work as going back to lay it after dozens of agents are already live, each connected to different systems. The former is design; the latter is retrofitting. Retrofitting means changing other people's already-running business processes one by one. The judgments in stage one face the same issue. The people who know how to make those judgments are still here today. Once large numbers of junior execution roles disappear, that source will be gone. The third article was making the same point when it asked where senior experts would come from after junior roles disappear.
 
-![The action chain as the smallest unit of migration](../assets/0cad796f0f0cd95e.png)
+![A six-step action chain from business task to evidence and recovery, with authorization and outcome verification.](../assets/cc88e1b3e6d6caaa.png)
 
 ## 7. About the Book
 
@@ -178,7 +176,7 @@ Third, a migration path and its acceptance criteria. The three stages are broken
 
 How to read it: CISOs and security leaders need only Parts One and Six, which cover the judgments and the path forward. Engineers should read Parts Two and Three, where the ten domains and six control planes are covered. Red teams should read Chapter 16, which contains what the fifth article did not expand on. For those working on the industry and vendor side, Part Five covers deliverables and pricing.
 
-![Five-phase, bidirectional migration path](../assets/afe9afa6b05e4518.png)
+![Five migration phases: autonomy is earned through evidence and can be withdrawn as evidence deteriorates.](../assets/080b1144e1e13cb8.png)
 
 ## 8. Conclusion
 
@@ -194,11 +192,11 @@ I will leave one question that still has no answer. If decisions have to be made
 
 One sobering point also needs to be made. After RSA in 2026, Google Cloud's Anton Chuvakin wrote that AI-driven acceleration would only kill security that relied on luck. No matter how powerful an AI attacker is, it cannot exploit a vulnerability that does not exist. Replacing the foundation, as discussed in this article, presupposes that the fundamentals of the old framework are already being done. Enterprises that have not covered the fundamentals should fix those first, rather than expecting a new architecture to make up for them.
 
-With that, the WeChat Official Account portion of this series comes to an end. The six articles provide direction and judgment. The implementation details are in the new book, *AI Native Security*, with information on obtaining it at the end of this article.
+With that, the WeChat Official Account portion of this series comes to an end. The six articles provide direction and judgment. The implementation details are in the new book, *AI Native Security*.
 
-These are some of my thoughts on AI Native Security. They represent only my personal views and do not constitute legal advice for any enterprise. You are welcome to follow my WeChat Official Account, or contact me on WeChat at neteyes to join our WeChat group and discuss these ideas together.
+These are some of my thoughts on AI Native Security. They represent only my personal views and do not constitute legal advice for any enterprise. You are welcome to follow my WeChat Official Account.
 
-<!-- Replace before publication: how to obtain AI Native Security (GitHub URL / electronic edition link / QR code), and information about the print edition. -->
+
 
 **References**
 
@@ -210,4 +208,4 @@ These are some of my thoughts on AI Native Security. They represent only my pers
 
 ---
 
-[Previous](./05-red-teaming.md) | [Next](./07-teloa.md)
+[Previous](./05-red-teaming.md) | [Related product practice](./07-teloa.md)

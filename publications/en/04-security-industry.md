@@ -2,11 +2,9 @@
 
 [中文](../zh/04-security-industry.md) | [English](../en/04-security-industry.md) | [Article index](../README.md) | [Profile](../../README.md)
 
-> English translation of the Chinese original. Some figures retain their original Chinese labels.
-
 > **About the author**: Max Luo, Founder of Teloa, focused on AI Agent Engineering & Product Development and AI Native Security. AI Security Engineering Team Lead at a globally leading cryptocurrency exchange, with 13+ years in cybersecurity and former leadership roles across global application security, the AI Security Center of Excellence (COE), security BP, and red teaming at SHEIN. Author of the open-source book AISecOps: AI-Driven Enterprise Security.
 >
-> WeChat: neteyes | WeChat Official Account: White Hat Luo Qichen | GitHub: cybermaxluo
+> WeChat Official Account: White Hat Luo Qichen | GitHub: cybermaxluo
 
 Looking at the security market from the enterprise buyer's perspective over the past few years, almost every vendor has been talking about AI, but few have changed what they actually deliver. Product vendors add chat boxes to their consoles. MSSPs (managed security service providers) give analysts access to model accounts. Consultancies use agents to produce reports faster. Audit platforms have models organize evidence automatically. All of these have value, but most only improve efficiency in isolated parts of the old production model. Customers still buy consoles that require ongoing human operation, people who follow playbooks, and reports that end up in archives.
 
@@ -22,13 +20,13 @@ The shift has two roots. First, the consumer of capabilities is changing from a 
 
 My view is this: **The security industry is moving from selling tools and person-days to delivering outcomes. But outcomes are not the destination. The next step is delivering value. For the first time, security can explain its value in positive terms, and determine how much business an enterprise is willing to entrust to agents. In other words, it determines how fast the business can run.**
 
-![The series' chain of change and this article's place in it](../assets/3fd3619f5675649d.png)
+![AI Native Security: causal backbone and six-essay reading map, with Essay 04 highlighted](../assets/95c01abf8e1bffc7.png)
 
 ## 1. The Consumer of Capabilities Has Changed
 
 Over the past twenty years, consoles have solved several problems at once. People were the main consumers of security data. Alerts, vulnerabilities, permissions, policies, and evidence ultimately had to be read, filtered, configured, and approved by people, so products had to translate underlying complexity into tables, charts, and buttons. Business models were also designed around the console. Seats, modules, data volumes, and premium features defined product boundaries. The interface was both the entry point for work and a source of customer stickiness and upselling. Security products therefore competed by collecting more data, performing more analysis, incorporating more workflows, and building larger dashboards.
 
-![From console-centric to capability-centric](../assets/dcd5ac5d939b07bc.png)
+![From console-centric to capability-centric](../assets/b91f3315285136fc.png)
 
 Agents have not eliminated any of these problems. What they change is that machines do not need to consume capabilities the way people do. An agent does not need to open "Host Details," click "Processes," copy a hash, switch to the threat intelligence page, and finally click "Isolate." It needs a set of clearly bounded capabilities: query a specified host's process tree for a given time window; verify a threat intelligence assessment of a hash and its sources; execute isolation with the task, delegation, target, validity period, and approval result attached; and finally return the actual state and evidence from the resource-side system. By resource-side systems, I mean systems such as ledgers, cloud control planes, and identity platforms, where the change actually takes place.
 
@@ -45,7 +43,7 @@ A security product can be broken down into at least eight layers.
 
 Agents will not change all eight layers in the same way. The closer a capability is to facts and side effects, the stronger its long-term value. What processes an endpoint sensor observed, whether an identity platform actually revoked a session, and whether a payment ledger froze funds cannot be inferred by a model. The closer a capability is to manual data handling, the more readily it can be recombined. Cross-tool queries, alert triage, evidence correlation, and ticket completion can all be brought back into a single task chain by an agent. The original products continue to provide data and actions, but no longer own the entry point for everyday work. Different parts of the same SIEM will move in different directions: data collection and historical queries will be strengthened, manual alert queues will be absorbed by agents, and redundant case modules will be phased out.
 
-![The eight layers of a security product](../assets/09529599c12add53.png)
+![The eight layers of a security product](../assets/b8cca308660634a6.png)
 
 Over the past two years, I have seen many security products take the first step toward becoming "AI-enabled" by adding a chat box on the right side of the existing console. It can explain alerts, generate queries, summarize vulnerabilities, and recommend responses. The experience is certainly better than manually hunting for buttons. But if closing the chat box leaves the underlying way of working entirely unchanged, it is closer to a Copilot wrapper. Over the past year, many products have taken a second step, wrapping their APIs in MCP and exposing them to external agents. Looking at the public documentation of several leading vendors, most of these wrappers are read-only: they query alerts, vulnerabilities, and assets, with actions extending at most to changing case status and adding notes. A few expose actions with real side effects, such as isolating hosts, changing policies, and disabling users. These either have no approval at all or display a confirmation dialog in the agent client, while the resource-side system still receives a call carrying the account's full permissions. Two very simple questions help determine whether a product is agent-native. Can an agent access the full set of capabilities without opening a page, rather than just query capabilities? Does a returned `success` mean that the API received the request, or that the resource actually changed and the business outcome was also confirmed?
 
@@ -71,7 +69,7 @@ NIST CSF 2.0 places supply chain risk within organizational governance. U.S. ban
 
 Third, independent verification. Validation must be performed by someone other than the builder. A report the supplier produces using its own samples and logs is only self-attestation. Fourth, major exceptions and risk acceptance. The authority to change risk appetite, accept residual risk above a threshold, or permit irreversible actions on a large scale cannot be delegated to a model or supplier. A vendor's low-risk assessment and common industry practice cannot substitute for the enterprise's own acceptance of risk.
 
-![Four responsibilities that cannot be handed over](../assets/0d5f309348468148.png)
+![Four responsibilities enterprise buyers must retain](../assets/65e215efcb1199be.png)
 
 Everything else can be delegated extensively. The two opposing answers at the beginning actually address four questions: who builds the capabilities, who provides the products, who runs the day-to-day processes, and who independently demonstrates that they work. Build, Buy, Operate, and Assure are not four mutually exclusive options. All four need answers. The criteria are whether the capability includes objectives and decision rights unique to the enterprise, whether supplier failure would take away critical control, and whether the enterprise can independently validate and replace it. Building in-house is not inherently secure, and buying does not inherently mean losing control. Control comes from boundaries, assets, evidence, and the ability to exit.
 
@@ -79,7 +77,7 @@ Everything else can be delegated extensively. The two opposing answers at the be
 
 There are four categories of providers: product vendors; MSSPs and MDR providers; consulting and implementation firms; and audit and red-team firms. Their deliverables are all moving toward outcomes. As discussed in the previous section, product vendors are moving from selling consoles to selling data sources and response capabilities. The economics of MSSPs and MDR (managed detection and response) have traditionally rested on the large amount of standardized labor required for frontline triage and reporting. Yet queries, correlation, summaries, and fixed playbooks are precisely the work agents are best at compressing. Analyst headcount and alert-processing volume are becoming increasingly difficult to present as proof of value. People will not leave security services; they will leave standardized actions. Unknown threats and major-incident command will still require experienced people, whose services will become more expensive. Consultancies' deliverables will shift from reports to machine-executable assets. Producing a structurally complete report is becoming cheaper, while the scarce resources have always been judgment about the customer's business and jurisdiction, and the ability to turn tacit experience into executable capabilities. The value of audit and red-team work lies in independence. Turning it into a continuous stream of evidence is the right direction, but independence comes from a third party. Assurance must be provided by a third party that did not participate in building the controls if its conclusions are to be objective.
 
-![The shift in value across four categories of providers](../assets/24a4ce4ade32f1bc.png)
+![The shift toward outcomes across four categories of security providers](../assets/3087e7bb201cfdf9.png)
 
 The unit of pricing should be the outcome of a scenario: keeping the domain you protect free of incidents, with outcomes as the measure. If you are responsible for account security, in-scope account takeovers are resolved within the specified time, with no loss of funds. If you are responsible for intrusion prevention, attack paths are blocked before reaching the business, with no business interruption. If you are responsible for vulnerability management, assessments are accurate, what needs fixing is fixed, and what does not need fixing does not disrupt the business. Payment is earned only when the outcome is achieved. The definition of the outcome belongs in the contract. Whether it was achieved is determined by verified effectiveness in real business scenarios: did the business stop, and was money lost?
 
@@ -101,7 +99,7 @@ Second, fully loaded costs can be calculated per outcome. Add together the costs
 
 Third, and most importantly, security can express its value in positive terms for the first time. How much business an enterprise can entrust to agents depends on whether it can prove that those actions can be authorized, verified, revoked, and recovered from. Without this, autonomy cannot advance, and the business remains at the stage where "agents make recommendations and people execute." The security agent framework we are building ourselves aims for agents to independently complete 80% of security tasks end to end, leaving the 20% of high-risk scenarios to people. That boundary is drawn according to this logic. Security determines how much authority to act an enterprise is willing to delegate, and therefore sets the upper limit of its operational capacity. When security moves from being the department that slows the business down to the department that determines how fast it can run, its position within the enterprise changes.
 
-![Four stages of evolution: from usage rights to value](../assets/d497c304f273fb39.png)
+![Four stages of evolution: from usage rights to value](../assets/dec2a3027afcb7bf.png)
 
 Once value can be calculated clearly, the economics change for both buyers and providers.
 
@@ -117,7 +115,7 @@ As the consumer of capabilities changes from people to agents, and outcomes beco
 
 **Interfaces determine how people use products. Capabilities determine whether machines can use them safely. Outcomes determine the basis of payment. Value determines security's standing within the enterprise.**
 
-These are some of my observations and reflections on the security industry in the AI era. They represent my personal views only and do not constitute legal advice for any enterprise. You are welcome to follow my WeChat Official Account or contact me on WeChat at neteyes to join our WeChat group for discussion.
+These are some of my observations and reflections on the security industry in the AI era. They represent my personal views only and do not constitute legal advice for any enterprise. You are welcome to follow my WeChat Official Account.
 
 **References**
 

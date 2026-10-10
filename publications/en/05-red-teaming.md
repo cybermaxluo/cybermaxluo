@@ -2,11 +2,9 @@
 
 [中文](../zh/05-red-teaming.md) | [English](../en/05-red-teaming.md) | [Article index](../README.md) | [Profile](../../README.md)
 
-> English translation of the Chinese original. Some figures retain their original Chinese labels.
-
 > **About the author**: Max Luo, Founder of Teloa, focused on AI Agent Engineering & Product Development and AI Native Security. AI Security Engineering Team Lead at a globally leading cryptocurrency exchange, with 13+ years in cybersecurity and former leadership roles across global application security, the AI Security Center of Excellence (COE), security BP, and red teaming at SHEIN. Author of the open-source book AISecOps: AI-Driven Enterprise Security.
 >
-> WeChat: neteyes | WeChat public account: White Hat Max Luo (白帽子罗棋琛) | GitHub: cybermaxluo
+> WeChat public account: White Hat Max Luo (白帽子罗棋琛) | GitHub: cybermaxluo
 
 The industry has spent years exploring how to automate red teaming. Vulnerability scanners, breach and attack simulation (BAS), attack surface management, and automated penetration testing have improved with each generation, but they have all stopped at validating known risks.
 
@@ -22,7 +20,7 @@ In my first article on SOCs and my second on application security, my point was 
 
 The central argument of this article is this: **The gap between offense and defense is no longer in technical details, but in the degree of intelligent automation. When adversaries use agents to attack at scale, red teams that still rely on the old approach of manually crafting tactics and techniques will be left on the receiving end.**
 
-![系列传导链与本篇位置](../assets/7f545c3544550174.png)
+![AI Native Security causal backbone from production through talent and metrics, above a six-essay reading map with Essay 5, Red Teaming, highlighted.](../assets/de9c8c4c68d087a7.png)
 
 ## 1. The Adversary's Approach Has Changed
 
@@ -60,7 +58,7 @@ The third is risk that nobody has articulated. Business stakeholders know which 
 
 The fourth is shared blind spots. When the same group of people builds both the offensive and defensive systems, those systems are limited by that group's capabilities. Without sustained, high-intensity, high-caliber adversarial testing, security posture will gradually deteriorate. People inside the system cannot see their own limitations, as the Chinese saying puts it: "You cannot see Mount Lu's true face because you are standing within it." You cannot define something you cannot see yourself. This category requires attacks from people outside the system.
 
-![未知的四类](../assets/09affd71a737d84f.png)
+![Four categories of unknowns: vulnerabilities, paths, unarticulated risks, and shared blind spots, with machine and human responsibilities.](../assets/c26f1b81ad177635.png)
 
 ## 3. Red Team Pain Points
 
@@ -88,7 +86,7 @@ The two can overlap. Using an attack agent to generate a supplier document conta
 
 The balance of investment differs too. Most enterprises' AI red teams do the first, and only at the shallowest level: testing prompt injection and jailbreaks. The second more often takes the form of adding agents to existing tool platforms to improve efficiency.
 
-![AI 红队新职责](../assets/10ca38b6850fafbf.png)
+![Two AI red team responsibilities: attacking enterprise AI systems and using agents to attack existing systems, with distinct authorizations, objectives, and evaluators.](../assets/fdc5a9a9d1c20cb7.png)
 
 This article focuses primarily on the second. But we first need to lay out the attack surface of the first, or we will not understand the scale of what needs to be tested. Between receiving a task and producing a consequence, an enterprise agent passes through at least eight layers.
 
@@ -103,7 +101,7 @@ This article focuses primarily on the second. But we first need to lay out the a
 
 Of these eight layers, the model layer offers the lowest return on effort. Model providers harden against jailbreaks and improve refusal behavior with every generation, and third-party vendors already offer mature products. There is still no general solution to prompt injection, but testing it in isolation yields limited value. The greater leverage lies in the layers below.
 
-![Agent 攻击面的八层](../assets/24951b0239947a2b.png)
+![Eight numbered layers of an agent attack surface, from model and reasoning to business outcomes, distinguishing vendor hardening from enterprise-built layers.](../assets/1a5792649817064e.png)
 
 ## 5. Changes in How Red Teams Work
 
@@ -115,7 +113,7 @@ The same change is happening across the software industry. The mode of productio
 
 Red teams have two additional responsibilities along this progression that other roles do not. One, mentioned earlier, is that every step must have an emergency stop and a contingency plan. The other comes before execution: someone must clearly define the adversary being simulated, what outcome constitutes a breach of the defenses, who would attack us, what resources they have, and what they want to achieve.
 
-![红队演练的分工](../assets/358d2c4aa360d891.png)
+![Machines execute red team attack and regression tasks; humans define adversaries, correct course, judge evidence, and assign residual-risk decision authority.](../assets/bf294a3c5d8df92c.png)
 
 Red teams used to operate periodically, once or twice a year: define the scope, attack for two weeks, deliver a report, and wait for remediation. The underlying assumption was that the systems being tested would remain largely unchanged between exercises.
 
@@ -123,7 +121,7 @@ Business teams are now using agents for development too. Coding agents write the
 
 The future requires continuous exercises. A persistent library of attack hypotheses, persistent attack agents, and persistent observation and evaluation. Findings enter the regression suite, and fixes are repeatedly verified. There is no longer a point at which an exercise is over. Testing is always underway because your adversaries are always attacking too.
 
-![演练从按周期变成常驻](../assets/d99107e9e6acb65d.png)
+![Shift from fixed-scope exercises once or twice a year to always-on attack hypotheses, agents, observation, evaluation, and regression testing.](../assets/0df52ea1179b6f93.png)
 
 In the past, red teamers spent most of their day running tools, typing commands, debugging exploits, reproducing issues, taking screenshots, and writing reports. Agents are taking over those tasks. The question used to be whether you could get in. Now it is whether you are attacking the right things and whether your conclusions stand up to scrutiny. The core skill is judgment.
 
@@ -145,7 +143,7 @@ The new metrics fall into three groups.
 2. Degree of automation: measure how far the red team has progressed in distilling its expertise into agents. Red teams will inevitably be slower than attackers. Every step must account for business continuity and avoid affecting stakeholders' KPIs. Autonomous attack-chain completion rate: the proportion of chains that run from initiation to a verdict without human intervention. Measure this using the number of human interventions in orchestration logs. Distillation coverage: how many of the red team's attack techniques have been converted into reusable agent capabilities? Targets covered per unit cost: how many targets can be attacked in parallel with the same budget, and how does this year's figure compare with last year's?
 3. Risk control: measure whether the attack agents themselves are under control. Boundary violations: hitting excluded targets, exceeding the permitted impact budget, or acting on objects that should not be touched. Record every occurrence as an incident within the enterprise. Business impact caused by exercises: how many minutes of disruption occurred, and how many real tickets were affected unintentionally? Proportion of invalid findings caused by hallucinations: the number of reported findings that cannot be reproduced divided by the total number of findings.
 
-![红队新指标的三组](../assets/f58416d47b1c2346.png)
+![Three groups of red team metrics: effectiveness, degree of automation, and risk control, including each group's metrics and data sources.](../assets/33d003af4986664f.png)
 
 ### 6.2 New Capabilities
 
@@ -171,7 +169,7 @@ So no matter how far digitalization and artificial intelligence progress, there 
 
 This article covers only the observations and judgments. I have put the fuller discussion of the four categories of unknowns, the complete components of continuous exercises, and the tiers of exercise realism into Chapter 16 of my new book, *AI Native Security*.
 
-These are my thoughts on how red teaming is changing in the agent era. They represent only my personal views and do not constitute legal advice concerning any enterprise. You are welcome to follow my WeChat public account or contact me on WeChat at neteyes to join our WeChat group and discuss these topics.
+These are my thoughts on how red teaming is changing in the agent era. They represent only my personal views and do not constitute legal advice concerning any enterprise. You are welcome to follow my WeChat public account.
 
 **References**
 

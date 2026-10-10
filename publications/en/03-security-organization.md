@@ -2,11 +2,9 @@
 
 [中文](../zh/03-security-organization.md) | [English](../en/03-security-organization.md) | [Article index](../README.md) | [Profile](../../README.md)
 
-> English translation of the Chinese original. Some figures retain their original Chinese labels.
-
 > **About the author**: Max Luo, Founder of Teloa, focused on AI Agent Engineering & Product Development and AI Native Security. AI Security Engineering Team Lead at a globally leading cryptocurrency exchange, with 13+ years in cybersecurity and former leadership roles across global application security, the AI Security Center of Excellence (COE), security BP, and red teaming at SHEIN. Author of the open-source book AISecOps: AI-Driven Enterprise Security.
 >
-> WeChat: neteyes | WeChat Official Account: 白帽子罗棋琛 | GitHub: cybermaxluo
+> WeChat Official Account: 白帽子罗棋琛 | GitHub: cybermaxluo
 
 At the end of the previous article, "Confessions of the Last Generation of Application Security Engineers," I suggested that the core human roles in future security organizations might come down to just three types: Security Architecture and Agent Engineering, BISO (Business Information Security Officer), and AI Red Teaming and Adversarial Validation. That argument deserves an article of its own.
 
@@ -16,13 +14,13 @@ The previous two articles followed the same chain of change:
 
 This article follows that chain further, focusing on those final four elements: how organizations are structured into layers, what remains of jobs, what kinds of talent are needed, and how performance should be measured.
 
-![The series' chain of change and this article's position within it](../assets/7f3ff2c52aac974b.png)
+![AI Native Security causal backbone and six-essay reading map, with essay 3 highlighted](../assets/b17fb9fd500be57a.png)
 
 Over the years, I have led multiple functions, including red teaming, application security, security business partnering, an AI security center of excellence, and security operations. I have also participated in building in-house enterprise security programs from the ground up. Seen from within each role, the work looks very different. Seen together, however, these organizational forms rest on the same premise: people perform most security work, so expertise must be grouped by people, tasks must move between people, and capacity must expand by adding headcount. Now that agents are taking over execution, that premise is weakening. This applies to application security and the SOC, as discussed in the previous two articles, and equally to other security domains. How departments are divided and how people are allocated will both change. Following that logic, my conclusion is that security domains will not disappear, but the job and departmental boundaries built around them will gradually weaken. Machines will cover execution across security domains, while people reorganize around responsibilities that cannot be handed to agents, ultimately converging on three types of cross-domain roles.
 
 "Only three types of roles" does not mean cutting the organization down to three people tomorrow. It means something else. Once machines take over checks, investigations, configuration, remediation, and reporting, why does a company still need security professionals? After thinking it through, I can see only three reasons: someone must turn security judgment into machine capabilities; someone must organize business objectives and risks into decisions; and someone must independently challenge the entire system and find what all the people and machines have collectively failed to see. These three types describe where human responsibility ultimately resides, not a redistribution of security domains into three specialties. The daily repetitive work within each domain, such as alert triage, access-request tickets, and code audits, goes to agents and the AI security center of excellence. People are no longer assigned roles by domain, but by these three types of responsibility. A SOC engineer may do more than SOC work: they may build and operate SOC agents while also managing application security agents, working horizontally across other domains. Pure execution roles devoted solely to alert handling disappear, and that engineer's position may no longer sit within a security operations department.
 
-![From dividing work by domain to organizing around responsibility](../assets/c86f6c0d11e44bdc.png)
+![From dividing work by domain to organizing around responsibility](../assets/515379d9609fdb6e.png)
 
 ## 1. The Previous Generation of Organizations: A Workforce Scheduling System
 
@@ -42,7 +40,7 @@ Security domains therefore continue to exist. However jobs change, someone must 
 
 Once execution is separated out, the remaining human responsibilities cut across today's security domains and cluster in three directions.
 
-![The five destinations of security work](../assets/b81049514309677e.png)
+![The five destinations of security work](../assets/95b90830e78fa42b.png)
 
 ## 3. The Three Types of Roles in an AI-Native Security Team
 
@@ -70,7 +68,7 @@ AI red teaming is not traditional red teaming with "AI" added to the name, nor i
 
 Independent red-versus-blue exercises are a longstanding industry practice. The red team decides where and how to attack; success is judged by the actual state of the system; findings are reported directly upward; and conclusions do not change just because a release deadline is approaching. These principles still apply in the agent era. The participants change from people to agents, but success or failure is still determined by actual system records, not an agent's account of what happened. The agent era adds only one new problem: if both sides' agents use the same model and the same data, it is like having one person fight their own other hand. Little genuinely new is likely to emerge. The AI red team likewise cannot accept risk on behalf of the business. Its responsibility is only to state clearly what was found, within what scope, in which version, and on what evidence, as well as what remains unknown.
 
-![Checks and balances between the three role types and business decisions](../assets/47d097f6882274cf.png)
+![Checks and balances between the three role types and business decisions](../assets/aea03d4f2383810f.png)
 
 ## 4. A Four-Layer System of Responsibility
 
@@ -124,9 +122,9 @@ For a CISO, the next step is neither to add AI to every job title nor to start b
 
 **Security domains define what the enterprise must be accountable for; the three types of roles define why people bear responsibility; and agents increasingly take on how the work is executed.**
 
-In the next article, we will continue along this chain of change: when people no longer organize their work around consoles, what value do security tools still offer? "Security Tools Will Not Disappear, but Consoles Will Lose Their Central Position."
+The next article examines the industry-side projection of this change: when people no longer organize their work around consoles, how do security vendors deliver capabilities, outcomes, and value? "The Next Generation of the Security Industry: From Delivering Outcomes to Delivering Value."
 
-These are some of my thoughts on security organizations and talent in the AI era. You are welcome to follow my WeChat Official Account, or contact me on WeChat at neteyes to join our WeChat group and continue the discussion.
+These are some of my thoughts on security organizations and talent in the AI era. You are welcome to follow my WeChat Official Account.
 
 **References**
 

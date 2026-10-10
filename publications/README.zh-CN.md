@@ -14,4 +14,4 @@ Max Luo 的 AI Native Security、AI Agent 工程、企业安全与 Teloa 文章�
 | 06 | [AI Native Security：安全体系最后会长成什么样](zh/06-ai-native-security.md) | [AI Native Security: What Will the Security Framework Ultimately Look Like?](en/06-ai-native-security.md) |
 | 07 | [从 Agent 到 AI Organization：我们为什么做 Teloa](zh/07-teloa.md) | [From Agent to AI Organization: Why We Built Teloa](en/07-teloa.md) |
 
-保留中文原文与英文全文译稿；第 3-7 篇英文稿使用原始中文配图。本文中的观点、推演和外部引用沿用原稿。
+保留中文原文与英文全文译稿；英文稿使用独立英文配图；中英文篇章总览按六篇定稿统一，并修正第三篇制衡图的结论报告方向，其余中文配图沿用原稿。本文中的观点、推演和外部引用沿用原稿。
