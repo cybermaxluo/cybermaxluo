@@ -80,6 +80,16 @@ Most of my long-form writing is in Chinese.
 
 **OSCE³ · OSED · OSWE · OSEP · OSCP**
 
+<div>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/126806140" alt="OffSec certification" width="168" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/126806117" alt="OffSec certification" width="168" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/98801514" alt="OffSec certification" width="168" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72035409" alt="OffSec certification" width="168" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69773039" alt="OffSec certification" width="168" />
+  <img src="HTB-CYCLONE.png" alt="Hack The Box CYCLONE certification" width="168" />
+  <img src="HTB-HAILSTORM.png" alt="Hack The Box HAILSTORM certification" width="168" />
+</div>
+
 [LinkedIn](https://www.linkedin.com/in/max-luo) · [GitHub](https://github.com/cybermaxluo) · [Email](mailto:186616@gmail.com)
 
 WeChat public account: **白帽子罗棋琛**
