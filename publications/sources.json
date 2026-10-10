@@ -1,0 +1,108 @@
+{
+  "articles": [
+    {
+      "slug": "01-ai-soc",
+      "zh_title": "下一代 AI SOC 长什么样：SOC 版的 Codex",
+      "en_title": "What the Next AI SOC Looks Like: A Codex for Security Operations",
+      "source": "01_下一代AI-SOC长什么样-SOC版的Codex.md",
+      "source_sha256": "969f63d22c23dd24007d55cd39769b3bf947c1a5a7eb0e734bbdfa2a848c23d6",
+      "english_source_sha256": "983a9259418527774f92dad28d7315d6e275cc1a2076ac4e59bbb5d60a643800"
+    },
+    {
+      "slug": "02-appsec",
+      "zh_title": "最后一代应用安全工程师的自白",
+      "en_title": "Confessions of a Last-Generation AppSec Engineer",
+      "source": "02_最后一代应用安全工程师的自白.md",
+      "source_sha256": "eee835571fec34541ee33e0fd446cb36306fa3552f1ded4e234bfb52f3f50f85",
+      "english_source_sha256": "916c5ae4620428ff11b381953771a503189e39adb9a01c98f18b7b92e12021d4"
+    },
+    {
+      "slug": "03-security-organization",
+      "zh_title": "安全组织最后可能只剩三类角色",
+      "en_title": "Security Organizations May Ultimately Have Only Three Types of Roles",
+      "source": "03_安全组织最后可能只剩三类角色.md",
+      "source_sha256": "a806fbfbd00198b6ad486b9beacfeebac67736ffef2e38ecfb1c394738e35124",
+      "english_source_sha256": "399bb6b9d8ee54fa0c9e7ca539074c255dbef4a6bba8ed3ffb295e8aa5307122"
+    },
+    {
+      "slug": "04-security-industry",
+      "zh_title": "下一代安全产业的变化：从交付结果到交付价值",
+      "en_title": "The Next Generation of the Security Industry: From Delivering Outcomes to Delivering Value",
+      "source": "04_下一代安全产业的变化-从交付结果到交付价值.md",
+      "source_sha256": "44002babcdddbacd20a18a0f153eddce3fbbe57e7b0886961d38a1b076370e24",
+      "english_source_sha256": "e7178efb2b26987d1acef5816053b9386c219e5ca1f08b8e53c9cf75d3ee2723"
+    },
+    {
+      "slug": "05-red-teaming",
+      "zh_title": "攻击方 Agent 化之后，红队的出路在哪里",
+      "en_title": "Where Does Red Teaming Go When Attackers Become Agent-Powered?",
+      "source": "05_攻击方Agent化之后-红队的出路在哪里.md",
+      "source_sha256": "02a0b8533b7777e543b3c5b6071f13f10328e127ca1667f657f171a898e878af",
+      "english_source_sha256": "692dd8f118d21a04d1e8f8a02c1158fefd66ca5093f026de01356fee62660e35"
+    },
+    {
+      "slug": "06-ai-native-security",
+      "zh_title": "AI Native Security：安全体系最后会长成什么样",
+      "en_title": "AI Native Security: What Will the Security Framework Ultimately Look Like?",
+      "source": "06_AINativeSecurity-安全体系最后会长成什么样.md",
+      "source_sha256": "bd8c42aaf86a2846035ee69dfcfe4e019ed074cf99aac8fa4758e4ce6ae54228",
+      "english_source_sha256": "a9c5b70557434526472db1f9df4781d8a88e8f591fddac09a0c653f06fbc6129"
+    },
+    {
+      "slug": "07-teloa",
+      "zh_title": "从 Agent 到 AI Organization：我们为什么做 Teloa",
+      "en_title": "From Agent to AI Organization: Why We Built Teloa",
+      "source": "teloa宣发文稿/Teloa-从Agent到AIOrganization-公众号发布终稿-v2-配图稿.md",
+      "source_sha256": "5786870e61156e85ed1c67b93f0350145e26c5335dec37d79d43a52de5b059e2",
+      "english_source_sha256": "516efad6add7223301a11be6507f7320abf04dbdad5faf978e61ca7a388518a0"
+    }
+  ],
+  "assets": {
+    "73d557b095791a39.png": "配图/01_AI-SOC/01_配图2-工作模式四阶段.png",
+    "26878922e8485347.png": "配图/01_AI-SOC/01_配图3-三线并成一岗.png",
+    "7e490a7c50332f57.png": "配图/01_AI-SOC/01_配图1-AI-SOC双平面架构.png",
+    "91c1c808621bc74b.png": "配图/01_AI-SOC/01_fig2-work-model-four-stages.png",
+    "f4bbb5f6505a9256.png": "配图/01_AI-SOC/01_fig3-three-tiers-one-role.png",
+    "9197a1329ebc9096.png": "配图/01_AI-SOC/01_fig1-two-plane-ai-soc-architecture.png",
+    "a6ef092217b85bb5.png": "配图/02_应用安全自白/02_自白1-新旧生产体系对比.png",
+    "c27fdd820cfbfc76.png": "配图/02_应用安全自白/02_自白3-工作模式路径与分工.png",
+    "828a9b4ad6dbfbd6.png": "配图/02_应用安全自白/02_自白2-六阶段安全内生.png",
+    "42d6ed284746cb20.png": "配图/02_应用安全自白/02_自白4-安全职能收敛三类人.png",
+    "c6124dc165fea2ab.png": "配图/02_应用安全自白/02_appsec-fig1-old-vs-new.png",
+    "1e0a5663acd253da.png": "配图/02_应用安全自白/02_appsec-fig3-work-model.png",
+    "f55c276999a2a302.png": "配图/02_应用安全自白/02_appsec-fig2-six-stages.png",
+    "1f10b03cfcc10d3d.png": "配图/02_应用安全自白/02_appsec-fig4-three-roles.png",
+    "7f3ff2c52aac974b.png": "配图/03_安全组织/03_组织0-系列传导链与本篇位置.png",
+    "c86f6c0d11e44bdc.png": "配图/03_安全组织/03_组织1-从按域分工到按责任组织.png",
+    "b81049514309677e.png": "配图/03_安全组织/03_组织2-安全工作的五种去向.png",
+    "47d097f6882274cf.png": "配图/03_安全组织/03_组织3-三类角色制衡关系.png",
+    "3fd3619f5675649d.png": "配图/04_安全工具/04_产业0-系列传导链与本篇位置.png",
+    "dcd5ac5d939b07bc.png": "配图/04_安全工具/04_工具1-从控制台中心到能力中心.png",
+    "09529599c12add53.png": "配图/04_安全工具/04_工具2-安全产品的八层.png",
+    "0d5f309348468148.png": "配图/05_甲方安全/05_甲方2-四类不可委托责任.png",
+    "24a4ce4ade32f1bc.png": "配图/06_安全厂商/06_厂商2-四类乙方的价值迁移.png",
+    "d497c304f273fb39.png": "配图/04_安全工具/04_产业3-四段演进-从使用权到价值.png",
+    "7f545c3544550174.png": "配图/05_对抗/05_对抗0-系列传导链与本篇位置.png",
+    "09affd71a737d84f.png": "配图/05_对抗/05_对抗5-未知的四类.png",
+    "10ca38b6850fafbf.png": "配图/05_对抗/05_对抗3-AI红队新职责.png",
+    "24951b0239947a2b.png": "配图/05_对抗/05_对抗2-Agent攻击面的八层.png",
+    "358d2c4aa360d891.png": "配图/05_对抗/05_对抗6-人从链中间退到两头.png",
+    "d99107e9e6acb65d.png": "配图/05_对抗/05_对抗7-按周期与常驻.png",
+    "f58416d47b1c2346.png": "配图/05_对抗/05_对抗4-新指标的三组.png",
+    "dc627bc86a19e40c.png": "配图/06_体系/06_体系0-系列传导链与本篇位置.png",
+    "90f39675b2cdc2e5.png": "配图/06_体系/06_体系1-各个安全域与同一个根因.png",
+    "e63325bf2eb75589.png": "配图/06_体系/06_体系2-三段路.png",
+    "0cad796f0f0cd95e.png": "配图/15_迁移路线/15_迁移1-迁移最小单元行动链.png",
+    "afe9afa6b05e4518.png": "配图/15_迁移路线/15_迁移2-五阶段双向迁移路线.png",
+    "5d31d8f59e2a77f6.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/00-封面-横版.png",
+    "3fbf92f5f5f3e0ec.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/01-AI员工的七项要素.png",
+    "d2c5a1f95a9bfc24.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/02-从员工到团队到组织.png",
+    "7f98496e6b5cef45.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/03-团队的所有权与选择.png",
+    "631cb7d79f2b92cf.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/04-未来的混合算力选择.png",
+    "73e0f9f4dbf1fd58.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/05-Teloa工作架构.png",
+    "99b15fe30ff5ccd8.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/06-安全场景的交付与边界.png",
+    "59e003e5f360318c.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/创始团队-圆形头像.png",
+    "e7eea4c8042a55be.png": "teloa宣发文稿/2026-10-08-Teloa宣发配图/07-社区版真实工作空间.png",
+    "6e0638a464415f27.jpg": "teloa宣发文稿/2026-10-08-Teloa宣发配图/TELOA产品交流群.JPG"
+  }
+}

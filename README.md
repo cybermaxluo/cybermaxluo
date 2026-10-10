@@ -1,43 +1,41 @@
 # Hi, I'm Max
 
-AI Security Engineering Lead (Crypto/Web3) | Author of AISecOps | AI for Security & Security for AI | Blockchain Security | OSCE³
+Founder of Teloa | AI Agent Engineering & Product Development | AI Native Security
 
-## 0x01 About Me
+## About Me
 
-**TL;DR:** Cybersecurity leader and hands-on security engineer focused on building AI-driven security capabilities for high-pressure, high-adversarial environments.
+I build agent-based systems that turn professional expertise into working AI teams. I founded Teloa and drive product design and engineering for an open-source AI-Native Team Studio, bringing agent runtimes, skills, memory, tools, permissions, and collaboration into a shared workspace.
 
-**Highlights**
+My background spans 13+ years in cybersecurity and global security leadership. I currently serve as AI Security Engineering Team Lead at a globally leading cryptocurrency exchange and previously led global application security and AI security functions at SHEIN. Today, I apply that experience to AI engineering: designing how agents take on responsibilities, coordinate work, use tools, and operate under human oversight.
 
-- 13+ years in cybersecurity, from red teaming and exploit development to global security leadership.
-- Leading Security AI Automation at a globally leading cryptocurrency exchange.
-- Focused on AI SOC, AI threat hunting, insider threat defense, data loss prevention, AppSec, DevSecOps, and offensive security.
-- Former Head of Global AI Security COE and Head of Global Application Security at SHEIN.
-- Author of the open-source book and project **《AISecOps: AI-Driven Security System》**.
-- OffSec OSCE³ / OSED / OSWE / OSEP / OSCP holder.
+## What I'm Building
 
-I work at the intersection of security engineering, AI automation, and security operations, turning security expertise into reusable platforms, measurable controls, and repeatable operating models.
+**[Teloa — AI-Native Team Studio](https://www.teloa.ai/en/)** · Founder
 
-**Current focus**
+[GitHub](https://github.com/teloa-ai/teloa) · [Website](https://www.teloa.ai/en/) · [Docs](https://docs.teloa.ai/en/)
 
-- **Crypto exchange security:** SOC anti-intrusion, Web3 APT defense, phishing, account takeover, API key abuse, cloud-native intrusion, abnormal login, and abnormal withdrawal detection.
-- **AI security operations:** AI SOC, SOAR, AI alert triage, AI threat hunting, incident investigation automation, IOC expansion, attack timeline generation, and response recommendation.
-- **Insider threat & data protection:** AI UEBA, behavior baselines, privilege abuse detection, sensitive-operation governance, customer-support risk monitoring, and data loss prevention.
+An open-source, self-hosted workspace for one person to build, manage, and run a team of AI employees. Built on an agent runtime, Teloa combines role-based knowledge and skills, tool integration, permissions, multi-agent collaboration, and automation.
 
-**Core background**
+Our first industry focus is in-house cybersecurity for internet businesses. Drawing on experience across application security, cloud and infrastructure defense, data protection, identity governance, red teaming, security operations, and business risk and compliance, we are turning security-team expertise and workflows into reusable knowledge, skills, and collaborative AI employees. The goal is **One Person Security Center**: a small human team directing a digital security workforce across these domains. My ongoing AI Native Security writing provides a framework for this work: how architecture, organizations, controls, metrics, and operating models change when agents become part of the enterprise workforce.
 
-- **AppSec & SDLC:** SAST / DAST / IAST / SCA, threat modeling, secure code review, SBOM, DevSecOps, API security, mobile security, and software supply chain security.
-- **AI system security:** LLM threat modeling, prompt injection defense, data leakage prevention, access control, model governance, third-party model risk, and NIST AI RMF.
-- **Offensive security:** red teaming, penetration testing, cloud and container attack simulation, exploit development, and adversary emulation.
+**[AISecOps: AI-Driven Enterprise Security](https://github.com/cybermaxluo/AISecOps/)** · Author of an open-source book covering AI for Security and Security for AI.
 
-## 0x02 AISecOps
+## Selected Writing
 
-[《AISecOps: AI-Driven Security System》](https://github.com/cybermaxluo/AISecOps/)
+**[Publications / 个人发表文档](publications/README.md)** · [中文目录](publications/README.zh-CN.md)
 
-> AISecOps: AI 驱动的安全体系。一套将 AI 能力嵌入企业安全体系的方法论框架，以及支撑它落地的工程实践，覆盖安全架构、SOC 运营、AI 威胁狩猎、内部威胁检测、数据防泄漏、GRC、云原生安全、身份治理、隐私保护与 AI 系统安全。
+1. [What the Next AI SOC Looks Like: A Codex for Security Operations](publications/en/01-ai-soc.md) · [中文](publications/zh/01-ai-soc.md)
+2. [Confessions of a Last-Generation AppSec Engineer](publications/en/02-appsec.md) · [中文](publications/zh/02-appsec.md)
+3. [Security Organizations May Ultimately Have Only Three Types of Roles](publications/en/03-security-organization.md) · [中文](publications/zh/03-security-organization.md)
+4. [The Next Generation of the Security Industry: From Delivering Outcomes to Delivering Value](publications/en/04-security-industry.md) · [中文](publications/zh/04-security-industry.md)
+5. [Where Does Red Teaming Go When Attackers Become Agent-Powered?](publications/en/05-red-teaming.md) · [中文](publications/zh/05-red-teaming.md)
+6. [AI Native Security: What Will the Security Framework Ultimately Look Like?](publications/en/06-ai-native-security.md) · [中文](publications/zh/06-ai-native-security.md)
+7. [From Agent to AI Organization: Why We Built Teloa](publications/en/07-teloa.md) · [中文](publications/zh/07-teloa.md)
 
-## 0x03 Selected Writing
+Most of my long-form writing is in Chinese.
 
-Most of my long-form essays and books are currently in Chinese.
+<details>
+<summary><strong>Technical Papers & Guides</strong></summary>
 
 #### Technical Papers & Guides
 
@@ -52,6 +50,11 @@ Most of my long-form essays and books are currently in Chinese.
 9. [《BlackHat Asia 2025：Java 反序列化利用链深度挖掘》](https://mp.weixin.qq.com/s/kO_nVUeqMM2UaaARual8RA)
 10. [《聊一聊AI赋能网络安全》](https://mp.weixin.qq.com/s/Cgxeue9XSi1LVrtS-9TNIA)
 11. [《Black Hat 2025 USA：基于 LLM 的微服务污点漏洞检测》](https://mp.weixin.qq.com/s/8-cs8FOIFW5T3YaZypGIoA)
+
+</details>
+
+<details>
+<summary><strong>Personal Essays & Reflections</strong></summary>
 
 #### Personal Essays & Reflections
 
@@ -71,35 +74,12 @@ Most of my long-form essays and books are currently in Chinese.
 14. [《11 宇宙的十二种假说：人择原理》](https://mp.weixin.qq.com/s/dAU8aN9Wh8k5C_-hdKD7GA)
 15. [《12 宇宙的十二种假说：终极篇》](https://mp.weixin.qq.com/s/0SAVN9-A2_XFkUDmRfjj3w)
 
-More writing is available on my GitHub and WeChat public account: **白帽子罗棋琛**.
+</details>
 
-## 0x04 Certifications
+## Certifications & Contact
 
-<div>
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/126806140" width="168"/>
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/126806117" width="168"/>
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/98801514" width="168"/>
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/72035409" width="168"/>
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/69773039" width="168"/>
-    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/HTB-CYCLONE.png" width="168"/>
-    <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/HTB-HAILSTORM.png" width="168"/>
-</div>
+**OSCE³ · OSED · OSWE · OSEP · OSCP**
 
-## 0x05 Contact
+[LinkedIn](https://www.linkedin.com/in/max-luo) · [GitHub](https://github.com/cybermaxluo) · [Email](mailto:186616@gmail.com)
 
-- Email: 186616@gmail.com
-- LinkedIn: https://www.linkedin.com/in/max-luo
-- GitHub: https://github.com/cybermaxluo
-
-<p align="center">
-  <img src="https://github.com/cybermaxluo/cybermaxluo/blob/main/maxluo-gzh.png" width="300"/>
-</p>
-
-## 0x06 GitHub
-
-- Profile: https://github.com/cybermaxluo
-- Open-source book: https://github.com/cybermaxluo/AISecOps/
-
----
-
-_AI-driven security operations | Crypto exchange security | AppSec | DevSecOps | AI Security_
+WeChat public account: **白帽子罗棋琛**
