@@ -1,6 +1,6 @@
 # Hi, I'm Max
 
-Founder of Teloa | AI Agent Engineering & Product Development | AI Native Security
+Founder of Teloa — Open-Source Agent Harness & AI Team Studio | AI Engineer | AI Native Security
 
 ## About Me
 
@@ -17,6 +17,12 @@ My background spans 13+ years in cybersecurity and global security leadership. I
 An open-source, self-hosted workspace for one person to build, manage, and run a team of AI employees. Built on an agent runtime, Teloa combines role-based knowledge and skills, tool integration, permissions, multi-agent collaboration, and automation.
 
 Our first industry focus is in-house cybersecurity for internet businesses. Drawing on experience across application security, cloud and infrastructure defense, data protection, identity governance, red teaming, security operations, and business risk and compliance, we are turning security-team expertise and workflows into reusable knowledge, skills, and collaborative AI employees. The goal is **One Person Security Center**: a small human team directing a digital security workforce across these domains. My ongoing AI Native Security writing provides a framework for this work: how architecture, organizations, controls, metrics, and operating models change when agents become part of the enterprise workforce.
+
+**[Agent Baseline Assessor — Enterprise Agent Identity & Authorization Security Baseline](https://github.com/teloa-ai/agent-baseline-assessor)** · Author
+
+Developed from Teloa's security design and maintained by Teloa AI Security, this open-source baseline turns agent identity, delegation, authorization, credentials, execution boundaries, data protection, and audit requirements into 240 verifiable controls across 10 security domains, available in seven languages. It includes a browser-local self-assessment tool with maturity reports and Excel export for platform design, vendor assessment, and security review. Self-assessment is not independent certification.
+
+[Assess Online](https://security.teloa.ai/agent-baseline-assessor/?lang=en) · [Standard](https://github.com/teloa-ai/agent-baseline-assessor/blob/main/01-standard/en/baseline-v1.0.md) · [Design Rationale](https://github.com/teloa-ai/agent-baseline-assessor/blob/main/04-design/en/design-rationale.md)
 
 **[AISecOps: AI-Driven Enterprise Security](https://github.com/cybermaxluo/AISecOps/)** · Author of an open-source book covering AI for Security and Security for AI.
 
